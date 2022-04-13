@@ -1,7 +1,6 @@
  <br/>
 
 
-<img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif" width="" height="300" />
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,3 +20,4 @@
 
 [![noclipping's GitHub stats](https://github-readme-stats.vercel.app/api?username=noclipping&theme=onedark)](https://github.com/noclipping/github-readme-stats)
 
+<img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif" width="500" height="200" />
