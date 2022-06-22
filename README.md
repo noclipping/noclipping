@@ -18,6 +18,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <hr/>
 
-[![noclipping's GitHub stats](https://github-readme-stats.vercel.app/api?username=noclipping&theme=onedark)](https://github.com/noclipping/github-readme-stats)
+[![noclipping's GitHub stats](https://github-readme-stats.vercel.app/api?username=noclipping&theme=apprentice)](https://github.com/noclipping/github-readme-stats)
 
 <img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif" width="500" height="200" />
