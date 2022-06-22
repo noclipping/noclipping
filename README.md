@@ -17,7 +17,9 @@
 ![Webpack](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <hr/>
-
-[![noclipping's GitHub stats](https://github-readme-stats.vercel.app/api?username=noclipping&theme=apprentice)](https://github.com/noclipping/github-readme-stats)
+<a href="https://github.com/noclipping/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noclipping&theme=apprentice" />
+</a>
+<!-- [![noclipping's GitHub stats](https://github-readme-stats.vercel.app/api?username=noclipping&theme=apprentice)](https://github.com/noclipping/github-readme-stats) -->
 
 <!-- <img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif" width="500" height="200" /> -->
