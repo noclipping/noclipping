@@ -1,4 +1,4 @@
-# 👋 Welcome to my github!
+# 👋 Hey there!
 
 I'm Devon, a self-proclaimed autodidact with an insatiable urge to learn and grow.
 ## 🔬 Technologies
