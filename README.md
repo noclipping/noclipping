@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 👋 Hey there!
 
 I'm Devon, a self-proclaimed autodidact with an insatiable urge to learn and grow.
@@ -15,3 +17,4 @@ I'm Devon, a self-proclaimed autodidact with an insatiable urge to learn and gro
 <!-- [![noclipping's GitHub stats](https://github-readme-stats.vercel.app/api?username=noclipping&theme=apprentice)](https://github.com/noclipping/github-readme-stats) -->
 
 <!-- <img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif" width="500" height="200" /> -->
+</div>
