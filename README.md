@@ -5,7 +5,7 @@
 I'm Devon, a self-proclaimed autodidact with an insatiable urge to learn and grow.
 ## 🔬 Technologies
 
-[![TechStack](https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,postgresql,aws,firebase,git,react,ts,js,html,css&perline=20)](https://skillicons.dev)
+[![TechStack](https://skillicons.dev/icons?i=nextjs,azure,apache,linux,php,nodejs,mongodb,postgresql,aws,firebase,git,react,ts,js,html,css&perline=20)](https://skillicons.dev)
 
 ## 💻 I'm currently working at...
 [Nebula Academy](https://www.nebulaacademy.com/)  as a Fellow 1 [Instructor Assistant]
