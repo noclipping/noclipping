@@ -8,7 +8,7 @@ I'm Devon, a self-proclaimed autodidact with an insatiable urge to learn and gro
 [![TechStack](https://skillicons.dev/icons?i=nextjs,azure,express,linux,php,nodejs,mongodb,postgresql,aws,firebase,git,react,ts,js,html,css&perline=20)](https://skillicons.dev)
 
 ## 💻 I'm currently working at...
-[Nebula Academy](https://www.nebulaacademy.com/)  as a Fellow 1 [Instructor Assistant]
+[Nebula Academy](https://www.nebulaacademy.com/) as a Software Engineer Bootcamp instructor teaching full-stack web development.
 
 <hr/>
 <a href="https://github.com/noclipping/github-readme-stats">
